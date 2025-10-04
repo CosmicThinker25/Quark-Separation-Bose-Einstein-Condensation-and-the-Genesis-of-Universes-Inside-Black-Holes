@@ -47,5 +47,9 @@ All numerical values in the figures are **synthetic illustrations** only; they s
 ---
 
 ## Citation
-If you use or reference this work, please cite as:
+If you use or reference this work, please cite as: 
+---
+
+## License
+This repository is released under the MIT License (see [LICENSE](./LICENSE) if present).
 
